@@ -6,7 +6,7 @@
 
 .body{
     min-height: 100vh;
-    background: url('/image.png');
+    background: url('image.png');
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
     display: flex;
@@ -57,4 +57,5 @@
     border: .30vmin solid black;
     border-radius: 50%;
     
+
 }
